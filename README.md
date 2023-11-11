@@ -41,6 +41,7 @@ Decidi por alguns anos ser somente mãe e agora sou aluna da @alura novamente pa
 ### 📚 Cursos em Execução
 ----
 
+- [x] Responsividade
 - [x] Performance Web
 - [ ] UX
 - [ ] Gestão Ágil
