@@ -1,6 +1,8 @@
-## 🌎 Olá, Bem-Vindo(a) ao meu perfil Github 👋 
+### 🌎 Olá, Bem-Vindo(a) ao meu perfil Github 👋 
 
-Sou analista de formação, com especialiação em engenharia. Já fui dev (front), já fui analista, já fui arquiteta, já fui líder de equipe. 
+
+Sou analista de formação, com especialiação em engenharia. 
+Já fui dev (front), já fui analista, já fui arquiteta, já fui líder de equipe. 
 Decidi por alguns longos anos ser somente mãe e agora sou aluna da @alura novamente, passando por reciclagem na área de front, agile e devops.
 
 <!--<picture>
@@ -12,22 +14,31 @@ Decidi por alguns longos anos ser somente mãe e agora sou aluna da @alura novam
 <!--
 ![Snake animation](https://github.com/ksilvagito/ksilvagito/blob/output/github-contribution-grid-snake.svg)
 -->
+------------------------
+### 🛠 Ferramentas e Tecnologias
 
-### ⚙ Ferramentas e Tecnologias
+<img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img  heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img heigth="30" width="30" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+ 
+<img heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img heigth="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> <img heigth="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img heigth="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />  <img heigth="40" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" /> <img heigth="40" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+ 
+<img heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />  <img heigth="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" />          
+                   
+<img  heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /> <img heigth="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
 
-<img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img  heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+### 📒 Planejamento
 
-<img heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> <img heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img heigth="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> <img heigth="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />  <img heigth="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />          
+------------------------
+### 📈 Estatísticas GitHub
+<div>
+  <a href="https://github.com/ksilvagito">
+  <!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksilvagito&layout=compact&langs_count=7&theme=dracula"/>-->
+  <img loading="lazy" height="190px" width="300px" src="https://github-readme-stats.vercel.app/api?username=ksilvagito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-<img  heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-          
-          
-          
-          
-          
-          
-
-### Contato
+### 📨 Contato
 
 <!--<div>
   <a href="https://www.linkedin.com/in/kerle-soliveira" target="_blank">
@@ -38,15 +49,4 @@ Decidi por alguns longos anos ser somente mãe e agora sou aluna da @alura novam
 
 <!--
 **ksilvagito/ksilvagito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
