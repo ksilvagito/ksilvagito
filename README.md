@@ -65,8 +65,7 @@ Decidi por alguns longos anos ser somente mãe e agora sou aluna da @alura novam
 ----
 <div>
   <a href="https://github.com/ksilvagito">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksilvagito&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="190" width="600" src="https://github-readme-stats.vercel.app/api?username=ksilvagito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img loading="lazy" height="140" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksilvagito&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="140" width="500" src="https://github-readme-stats.vercel.app/api?username=ksilvagito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
 
 
