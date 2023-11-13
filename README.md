@@ -53,9 +53,7 @@ Decidi por alguns anos ser somente mãe e agora sou aluna da @alura novamente pa
 
 ### 🛠 Ferramentas e Tecnologias Já Utilizadas
 ----
-<div id="front" style="display: inline_block" >
-  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />  
-  <img heigth="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" /> 
+<div id="front" style="display: inline_block" > 
   <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
   <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> 
   <img  heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
@@ -77,6 +75,8 @@ Decidi por alguns anos ser somente mãe e agora sou aluna da @alura novamente pa
 <div id="model" style="display: inline_block" >
   <img  heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /> 
   <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+  <img heigth="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" />
+  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />  
 </div>
 <br/> 
 
