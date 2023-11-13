@@ -1,5 +1,6 @@
-### <img heigth="60" width="60" src=""> Olá, Bem-Vindo(a) ao meu perfil Github 👋 
-
+<img heigth="60" width="60" src="https://github.com/ksilvagito/ksilvagito/blob/main/octocat-Kerle.png">Olá, Bem-Vindo(a) ao meu perfil Github 👋 
+  
+ 
 <br/>
 
 ### Sobre Mim
