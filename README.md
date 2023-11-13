@@ -5,7 +5,7 @@
 
 ### Sobre Mim
 
-> _**Sou analista de formação, com especialiação em engenharia. Já fui dev (front), já fui analista, já fui arquiteta, já fui líder de equipe. 
+> _**Sou analista de formação, com especialiação em engenharia. Já fui dev, já fui analista, já fui arquiteta, já fui líder de equipe. 
 Decidi por alguns anos ser somente mãe e agora sou aluna da @alura novamente para reciclagem nos segmentos de front, agile e devops.**_ 
 
 <br/>
