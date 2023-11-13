@@ -83,7 +83,8 @@ Decidi por alguns anos ser somente mãe e agora sou aluna da @alura novamente pa
 ----
 <div>
   <a href="https://github.com/ksilvagito">
-  <img loading="lazy" height="140" width="500" src="https://github-readme-stats.vercel.app/api?username=ksilvagito&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> <img loading="lazy" height="140" width="500" fontsize="9" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksilvagito&layout=compact&langs_count=7&theme=dark"/>
+  <img loading="lazy" height="140" width="500" src="https://github-readme-stats.vercel.app/api?username=ksilvagito&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> 
+  <!--<img loading="lazy" height="140" width="500" fontsize="9" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksilvagito&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
 
 
