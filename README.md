@@ -34,8 +34,17 @@ Decidi por alguns anos ser somente mãe e agora sou aluna da @alura novamente pa
 
 * Sites
 
-![image](https://) ![image](https://)
-![image](https://) ![image](https://)
+*Alura SPA*
+
+<img width="600" alt="Alura SPA" src="https://github.com/ksilvagito/alura/blob/main/imagens/AluraSpa-Site.jpg">
+
+
+*Alura Books*
+
+<img heigth="100" width="200"  alt="Alura Book Mobile" src="https://github.com/ksilvagito/alura/blob/main/imagens/AluraBooks-Mobile.jpg">
+
+
+<!-- ![Alt](src)  -->
 
 <br/>
 
