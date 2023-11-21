@@ -5,8 +5,8 @@
 
 ### Sobre Mim
 
-> _**Sou analista de formação, com especialiação em engenharia. Já fui dev, já fui analista, já fui arquiteta, já fui líder de equipe. 
-Decidi por alguns anos ser somente mãe e agora sou aluna da @alura novamente para reciclagem nos segmentos de front, agile e devops.**_ 
+> _**Sou Analista de formação, com especialiação em Engenharia. Já fui dev, já fui analista, já fui arquiteta, já fui líder de equipe.**_   
+> _**Decidi por alguns anos ser somente mãe e agora sou aluna da #Alura novamente nos segmentos de front, agile e devops.**_
 
 <br/>
 
@@ -21,14 +21,14 @@ Decidi por alguns anos ser somente mãe e agora sou aluna da @alura novamente pa
 -->
 <br/>
 
-### 🗃 Projetos
+### 🗃 Alguns Projetos Pessoais 
 ----
 
 * Modelagem
 
-![image](https://) ![image](https://)
+<img width="600" alt="Diagrama de Caso de Uso" src="/../../../publicImg/blob/main/UCDiagram-VendaPassagem.jpg">
 
-![image](https://) ![image](https://)
+<img width="600" alt="Diagrama de Classes" src="/../../../publicImg/blob/main/imagens/Class-Diagram.jpg">
 
 <br/>
 
@@ -36,12 +36,12 @@ Decidi por alguns anos ser somente mãe e agora sou aluna da @alura novamente pa
 
 *Alura SPA*
 
-<img width="600" alt="Alura SPA" src="https://github.com/ksilvagito/alura/blob/main/imagens/AluraSpa-Site.jpg">
+<img width="600" alt="Alura SPA" src="/../../../alura/blob/main/imagens/AluraSpa-Site.jpg">
 
 
 *Alura Books*
 
-<img heigth="100" width="200"  alt="Alura Book Mobile" src="https://github.com/ksilvagito/alura/blob/main/imagens/AluraBooks-Mobile.jpg">
+<img heigth="100" width="200"  alt="Alura Book Mobile" src="/../../../alura/blob/main/imagens/AluraBooks-Mobile.jpg">
 
 
 <!-- ![Alt](src)  -->
@@ -57,6 +57,12 @@ Decidi por alguns anos ser somente mãe e agora sou aluna da @alura novamente pa
 - [ ] Gestão Ágil
 - [ ] React
 - [ ] Node
+
+<br/>
+
+| Kanban de Cursos   |
+| :---          |
+| <img width="600" alt="Kanban 2023" src="/../../../publicImg/blob/main/Kanban.jpg"> | 
 
 <br/>
 
