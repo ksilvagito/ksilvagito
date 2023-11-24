@@ -1,8 +1,8 @@
-name: Generate Datas
+name: Generate Datas for contributions in the last year
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "* */24 * * *"
   workflow_dispatch:
 
 jobs:
