@@ -1,4 +1,4 @@
-name: Generate Datas for contributions in the last year
+name: Cron of Contributions 
 
 on:
   schedule: # execute every 12 hours
