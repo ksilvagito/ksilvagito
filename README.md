@@ -23,26 +23,17 @@
 
 ### 🗃 Alguns Projetos Pessoais 
 ----
-
-* Modelagem
-
+<!--
 <img width="600" alt="Diagrama de Caso de Uso" src="/../../../publicImg/blob/main/UCDiagram-VendaPassagem.jpg">
-
 <img width="600" alt="Diagrama de Classes" src="/../../../publicImg/blob/main/imagens/Class-Diagram.jpg">
+-->
 
-<br/>
-
-* Sites
-
-*Alura SPA*
-
-<img width="600" alt="Alura SPA" src="/../../../alura/blob/main/imagens/AluraSpa-Site.jpg">
-
-
-*Alura Books*
-
-<img heigth="100" width="200"  alt="Alura Book Mobile" src="/../../../alura/blob/main/imagens/AluraBooks-Mobile.jpg">
-
+1. Modelagem
+2. Sites
+   
+    a. Alura SPA
+   
+    b. Alura Books
 
 <!-- ![Alt](src)  -->
 
@@ -60,7 +51,7 @@
 
 <br/>
 
-| Kanban de Cursos   |
+| Workflow de Cursos   |
 | :---          |
 | <img width="600" alt="Kanban 2023" src="/../../../publicImg/blob/main/Kanban.jpg"> | 
 
