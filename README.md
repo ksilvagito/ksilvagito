@@ -31,9 +31,9 @@
 1. Modelagem
 2. Sites
    
-    a. Alura SPA
+    a. [Alura SPA](https://aluraspa-ksi.vercel.app/)
    
-    b. Alura Books
+    b. [Alura Books](https://alurabooks-ksi.vercel.app/)
 
 <!-- ![Alt](src)  -->
 
