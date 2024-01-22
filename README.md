@@ -5,8 +5,11 @@
 
 ### Sobre Mim
 
-> _**Sou Analista de formação, com especialiação em Engenharia de Software. Já fui dev, já fui analista, já fui arquiteta, já fui líder de equipe.**_   
-> _**Decidi por alguns anos ser somente mãe e agora sou aluna da #Alura novamente nos segmentos de front, agile e devops.**_
+> _**Sou Analista de formação, com especialiação em Engenharia de Software.**_ <br>
+> _**Atuei nos segmentos de Saúde, Telecomunicações e Consultorias de TI**_ <br>
+> _**Já fui dev, já fui analista, já fui arquiteta, já fui líder de equipe.**_ <br>
+> _**Decidi por alguns anos ser somente mãe e agora sou aluna da #Alura novamente nos segmentos de:**_ <br>
+> _**<strong>FRONT, AGILE e DEVOPS</strong>, para dar continuidade na profissão e continuar contribuindo com o setor.**_ <br>
 
 <br/>
 
@@ -29,7 +32,10 @@
 -->
 
 1. Modelagem
-2. Sites
+   
+   _*Em edição*_
+   
+3. Sites
    
     a. [Alura SPA](https://aluraspa-ksi.vercel.app/)
    
