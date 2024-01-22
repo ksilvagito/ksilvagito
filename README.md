@@ -39,15 +39,19 @@
 
 <br/>
 
-### 📚 Cursos em Andamento
+### 📚 Planejamento de Cursos (2023-2024)
 ----
 
+- [x] Html5/CSS3
+- [x] Git e GitHub
 - [x] Responsividade
-- [x] Performance Web
-- [ ] UX
+- [ ] Performance Web  (_em andamento_)
+- [ ] UX e Figma
 - [ ] Gestão Ágil
 - [ ] React
-- [ ] Node
+- [ ] Node.js
+- [ ] Vue.js
+- [ ] Angular
 
 <br/>
 
