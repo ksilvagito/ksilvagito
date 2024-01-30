@@ -37,9 +37,9 @@
    
 3. Sites
    
-    a. [Alura SPA](https://aluraspa-ksi.vercel.app/)
+    a. [SPA](https://github.com/ksilvagito/aluraspa)
    
-    b. [Alura Books](https://alurabooks-ksi.vercel.app/)
+    b. [Books](https://github.com/ksilvagito/alura-books)
 
 <!-- ![Alt](src)  -->
 
