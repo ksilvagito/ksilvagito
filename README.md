@@ -46,6 +46,36 @@
 
 <br/>
 
+### 🛠 Ferramentas e Tecnologias Já Utilizadas
+----
+<div id="front" style="display: inline_block" > 
+  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
+  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> 
+  <img  heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
+  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
+  <img heigth="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+  <img heigth="30" width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
+</div>
+
+<div id="dev" style="display: inline_block" > 
+  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> 
+  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
+  <img heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />  
+  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" /> 
+  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+</div>
+<br/> 
+<div id="model" style="display: inline_block" >
+  <img  heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /> 
+  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+  <img heigth="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" />
+  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />  
+</div>
+
+<br/> 
+
 ### 📚 Planejamento de Cursos (2023-2024)
 ----
 
@@ -67,35 +97,6 @@
 | <img width="600" alt="Kanban 2023" src="/../../../publicImg/blob/main/Kanban.jpg"> | 
 
 <br/>
-
-### 🛠 Ferramentas e Tecnologias Já Utilizadas
-----
-<div id="front" style="display: inline_block" > 
-  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> 
-  <img  heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
-  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
-  <img heigth="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-</div>
-
-<div id="dev" style="display: inline_block" > 
-  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> 
-  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
-  <img heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />  
-  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" /> 
-  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-</div>
-<br/> 
-<div id="model" style="display: inline_block" >
-  <img  heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /> 
-  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
-  <img heigth="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" />
-  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />  
-</div>
-<br/> 
 
 ### 📈 Estatísticas GitHub
 ----
