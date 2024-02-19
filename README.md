@@ -5,7 +5,7 @@
 
 ### Sobre Mim
 
-> _**Sou Analista de formação, com especialiação em Engenharia de Software.**_ <br>
+> _**Sou Analista de formação, e pós graduada em Engenharia de Software.**_ <br>
 > _**Atuei nos segmentos de Saúde, Telecomunicações e Consultorias de TI**_ <br>
 > _**Já fui dev, já fui analista, já fui arquiteta, já fui líder de equipe.**_ <br>
 > _**Decidi por alguns anos ser somente mãe e agora sou aluna da #Alura**_ <br>
