@@ -82,12 +82,14 @@
 - [x] Html5/CSS3
 - [x] Git e GitHub
 - [x] Responsividade
-- [ ] Performance Web  (_em andamento_)
-- [ ] UX e Figma
+- [x] Performance Web
+- [x] DevOps/BigData/AWS 
+- [ ] Vue.js (_em andamento_)
+- [ ] React (_em andamento_)
 - [ ] Gestão Ágil
-- [ ] React
+- [ ] IA
+- [ ] UX e Figma
 - [ ] Node.js
-- [ ] Vue.js
 - [ ] Angular
 
 <br/>
