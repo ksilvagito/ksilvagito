@@ -76,21 +76,22 @@
 
 <br/> 
 
-### 📚 Planejamento de Cursos (2023-2024)
+### 📚 Planejamento de Cursos (2024-2025)
 ----
 
 - [x] Html5/CSS3
 - [x] Git e GitHub
 - [x] Responsividade
 - [x] Performance Web
-- [x] DevOps/BigData/AWS 
-- [ ] Vue.js (_em andamento_)
-- [ ] React (_em andamento_)
-- [ ] Gestão Ágil
-- [ ] IA
+- [x] DevOps/BigData/AWS
+- [ ] Angular (_em andamento_)
+- [ ] Vue.js 
+- [ ] React 
+- [ ] Gestão Ágil (_em andamento_)
+- [ ] IA (_em andamento_)
 - [ ] UX e Figma
 - [ ] Node.js
-- [ ] Angular
+
 
 <br/>
 
