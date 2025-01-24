@@ -9,8 +9,8 @@
 > _**Atuei nos segmentos de Saúde, Telecomunicações e Consultorias de TI**_ <br>
 > _**Já fui dev, já fui analista, já fui arquiteta, já fui líder de equipe.**_ <br>
 > _**Decidi por alguns anos ser somente mãe e agora sou aluna da #Alura**_ <br>
-> _**novamente nos segmentos de: <strong>FRONT, AGILE e DEVOPS</strong>, para dar**_ <br>
-> _**seguimento à profissão e continuidade às contribuições no setor.**_ <br>
+> _**nos segmentos de: <strong>FRONT, AGILE e IA</strong>, para dar**_ <br>
+> _**seguimento à profissão e às contribuições no setor de TI.**_ <br>
 
 <br/>
 
