@@ -84,11 +84,12 @@
 - [x] Responsividade
 - [x] Performance Web
 - [x] DevOps/BigData/AWS
+- [ ] TypeScript/JScript (atualizações) (_em andamento_)
 - [ ] Angular (_em andamento_)
-- [ ] Vue.js 
-- [ ] React 
 - [ ] Gestão Ágil (_em andamento_)
 - [ ] IA (_em andamento_)
+- [ ] Vue.js 
+- [ ] React 
 - [ ] UX e Figma
 - [ ] Node.js
 
