@@ -93,17 +93,18 @@
 - [ ] UX e Figma
 - [ ] Node.js
 
-
 <br/>
-
+<!--
 | Workflow de Cursos   |
 | :---          |
 | <img width="600" alt="Kanban 2023" src="/../../../publicImg/blob/main/Kanban.jpg"> | 
 
 <br/>
+-->
 
 ### 📈 Estatísticas GitHub
 ----
+
 <div>
   <a href="https://github.com/ksilvagito">
   <img loading="lazy" height="140" width="500" src="https://github-readme-stats.vercel.app/api?username=ksilvagito&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> 
