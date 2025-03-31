@@ -8,7 +8,7 @@
 > _**Sou Analista de formação, e pós graduada em Engenharia de Software.**_ <br>
 > _**Atuei nos segmentos de Saúde, Telecomunicações e Consultorias de TI**_ <br>
 > _**Já fui dev, já fui analista, já fui arquiteta, já fui líder de equipe.**_ <br>
-> _**Decidi por alguns anos ser somente mãe e agora sou aluna da #Alura**_ <br>
+> _**Decidi me dedicar à maternidade por um tempo e agora sou aluna da #Alura**_ <br>
 > _**nos segmentos de: <strong>FRONT, AGILE e IA</strong>, para dar**_ <br>
 > _**seguimento à profissão e às contribuições no setor de TI.**_ <br>
 
@@ -84,7 +84,7 @@
 - [x] Responsividade
 - [x] Performance Web
 - [x] DevOps/BigData/AWS
-- [ ] TypeScript/JScript (atualizações) (_em andamento_)
+- [x] TypeScript/JScript
 - [ ] Angular (_em andamento_)
 - [ ] Gestão Ágil (_em andamento_)
 - [ ] IA (_em andamento_)
