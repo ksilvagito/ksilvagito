@@ -8,9 +8,8 @@
 > _**Sou Analista de formação, e pós graduada em Engenharia de Software.**_ <br>
 > _**Atuei nos segmentos de Saúde, Telecomunicações e Consultorias de TI**_ <br>
 > _**Já fui dev, já fui analista, já fui arquiteta, já fui líder de equipe.**_ <br>
-> _**Decidi me dedicar à maternidade por um tempo e agora sou aluna da #Alura**_ <br>
-> _**nos segmentos de: <strong>FRONT, AGILE e IA</strong>, para dar**_ <br>
-> _**seguimento à profissão e às contribuições no setor de TI.**_ <br>
+> _**Dediquei alguns anos exclusivamente à maternidade e agora sou aluna da #Alura**_ <br>
+> _**nos segmentos de: <strong>FRONT e AGILE, para dar seguimento à profissão e às contribuições no setor de TI.**_ <br>
 
 <br/>
 
@@ -32,15 +31,13 @@
 <img width="600" alt="Diagrama de Classes" src="/../../../publicImg/blob/main/imagens/Class-Diagram.jpg">
 -->
 
-1. Modelagem
+1. Sites
    
-   _*Em edição*_
+    a. [SPA (Html puro)](https://github.com/ksilvagito/aluraspa)
    
-3. Sites
-   
-    a. [SPA](https://github.com/ksilvagito/aluraspa)
-   
-    b. [Books](https://github.com/ksilvagito/alura-books)
+    b. SPA (Angular) -> _*Em Andamento*_
+
+    c. [Books](https://github.com/ksilvagito/alura-books)
 
 <!-- ![Alt](src)  -->
 
@@ -83,15 +80,16 @@
 - [x] Git e GitHub
 - [x] Responsividade
 - [x] Performance Web
-- [x] DevOps/BigData/AWS
 - [x] TypeScript/JScript
+- [x] Node.js
+- [x] UX e Figma
+- [x] DevOps/BigData/AWS
+- [x] IA Generativa - Prompts
 - [ ] Angular (_em andamento_)
 - [ ] Gestão Ágil (_em andamento_)
-- [ ] IA (_em andamento_)
 - [ ] Vue.js 
 - [ ] React 
-- [ ] UX e Figma
-- [ ] Node.js
+
 
 <br/>
 <!--
