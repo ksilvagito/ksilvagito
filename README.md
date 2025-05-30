@@ -33,7 +33,7 @@
 
 1. Sites
    
-    a. [SPA (Html puro)](https://github.com/ksilvagito/aluraspa)
+    a. [SPA (Html Responsivo)](https://github.com/ksilvagito/aluraspa)
    
     b. SPA (Angular) -> _*Em Andamento*_
 
