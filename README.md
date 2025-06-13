@@ -87,8 +87,8 @@
 - [x] IA Generativa - Prompts
 - [ ] Angular (_em andamento_)
 - [ ] Gestão Ágil (_em andamento_)
-- [ ] Vue.js 
 - [ ] React 
+- [ ] Vue.js
 
 
 <br/>
