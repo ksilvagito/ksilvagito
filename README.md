@@ -82,8 +82,8 @@
 - [x] Performance Web
 - [x] TypeScript/JScript
 - [x] Node.js
-- [x] UX e Figma
-- [x] DevOps/BigData/AWS
+- [x] UI e Figma
+- [x] DevOps/AWS
 - [x] IA Generativa - Prompts
 - [ ] Angular (_em andamento_)
 - [ ] Gestão Ágil (_em andamento_)
